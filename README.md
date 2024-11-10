@@ -14,7 +14,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ryadav0654&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+## Hactoberfest Badges
+[![An image of @ryadav0654's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryadav0654)](https://holopin.io/@ryadav0654)
+## Gssoc Badges
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/Ryadav0654?year=2024Extd)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ryadav0654&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
