@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ravindra Yadav, a B.Tech student at Indian Institute of Information Technology, Bhopal.<br>👀 I’m interested in web development and open source contribution.<br>🌱 I’m currently learning Next.js and Web3 technologies.<br>💞️ I’m looking to collaborate on open source projects and innovative tech solutions.<br>📫 How to reach me: Connect with me on linkedIn and other social profile.<br>😄 Pronouns: He/Him
+👋 Hi, I’m Ravindra Yadav, a B.Tech student at Indian Institute of Information Technology, Bhopal.<br>👀 I’m interested in web development and open source contribution.<br>🌱 I’m currently learning Web3 technologies.<br>💞️ I’m looking to collaborate on open source projects and innovative tech solutions.<br>📫 How to reach me: Connect with me on linkedIn and other social profile.<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
